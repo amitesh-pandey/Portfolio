@@ -7,4 +7,4 @@ As the title suggests,you get to understand the the concepts of Software Defined
 
 [![View on GitHub](https://github.com/amitesh-pandey/Practical_Approach_to_SDR)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/SDR.PNG"/></center>
