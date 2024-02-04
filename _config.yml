@@ -1,9 +1,16 @@
 title: <p align="center"> Amitesh Pandey </p>
 logo: /assets/img/IMG_7456.JPG
-description: Being an enthusiastic Post Graduate Engineer, I have been working in the Tech industries since 3+ years with different technology and domains. Thus, I believe in Learning, by adapting a new technology using ELE concept:
-E -> Exploring new technology,
-L -> Learning it conceptually ,
-E -> Executing it instantly.
+description:
+    <p align="center">
+      <a href="https://www.linkedin.com/in/amiteshpandey-1992/">LinkedIn</a> |
+      <a href="https://github.com/amitesh-pandey">GitHub</a>
+    <br>
+    A data science enthusiast with 4+ years of overall experience as Technical Engineer in different domain and 2+ years of
+    experience as ML engineer & Research data scientist. Proficient in building mathematical and Statistical data analytics,
+    and predictive modelling, Machine Learning, Deep Learning, python. Experienced in Python programming for 3+ years.
+    Delivered 40+ technical lectures on Data Science, Software Defined Radio and Single Board Computers. Strong
+    understanding of interpreting and analysing data to drive successful business solutions.
+    <br>
+    </p>
 
-Currently working as a Researh Data Scientist, in the Cyber Security domain, working on the XDR Product (Extended Detection & Response) dealing with the implementation of Multiple Unified Model Usecases(UEBA, Web & Network) with respect to the severity level, further performing a white box testing of those alerts for the Quality analysis of the product. Also Involved in the Kafka as a data forwarder, pushing the Alerts generated from the ML to MongoDB.
 theme: jekyll-theme-minimal
