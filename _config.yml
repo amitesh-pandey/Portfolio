@@ -5,5 +5,5 @@ E -> Exploring new technology,
 L -> Learning it conceptually ,
 E -> Executing it instantly.
 
-💖 Currently working as a Researh Data Scientist, in the Cyber Security domain, working on the XDR Product (Extended Detection & Response) dealing with the implementation of Multiple Unified Model Usecases(UEBA, Web & Network) with respect to the severity level, further performing a white box testing of those alerts for the Quality analysis of the product. Also Involved in the Kafka as a data forwarder, pushing the Alerts generated from the ML to MongoDB.
+Currently working as a Researh Data Scientist, in the Cyber Security domain, working on the XDR Product (Extended Detection & Response) dealing with the implementation of Multiple Unified Model Usecases(UEBA, Web & Network) with respect to the severity level, further performing a white box testing of those alerts for the Quality analysis of the product. Also Involved in the Kafka as a data forwarder, pushing the Alerts generated from the ML to MongoDB.
 theme: jekyll-theme-minimal
